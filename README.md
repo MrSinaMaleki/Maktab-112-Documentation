@@ -25,7 +25,7 @@ Welcome to the documentation repository for our bootcamp! This repository serves
 
 To clone this repository, use:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/MrSinaMaleki/Maktab-112-Documentation.git
 ```
 
 ---
@@ -49,20 +49,23 @@ Each session folder includes:
 **Example Structure:**
 ```
 sessions/
-   session-01/
-      notes.md
-      cw/
-         cw1.md
-         cw1_solution.md
-      hw/
+   week1/
+      session-01/
+         notes.md
+         cw/
+            cw1.md
+            cw1_solution.md
+
+      session-02/
+         notes.md
+         cw/
+       hw/
          hw1.md
       resources/
          links.md
-   session-02/
-      notes.md
-      cw/
-      hw/
-      resources/
+
+   week2/
+
 ```
 
 ---
