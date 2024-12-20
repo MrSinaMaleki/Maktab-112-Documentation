@@ -6,12 +6,12 @@ Welcome to the documentation repository for our bootcamp! This repository serves
 
 ## Table of Contents
 
-1. [About the Bootcamp](#about-the-bootcamp)
-2. [How to Use This Repository](#how-to-use-this-repository)
-3. [Session Structure](#session-structure)
-4. [Session Index](#session-index)
-5. [Contributing](#contributing)
-6. [License](#license)
+
+1. [How to Use This Repository](#how-to-use-this-repository)
+2. [Session Structure](#session-structure)
+3. [Session Index](#session-index)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ---
 
